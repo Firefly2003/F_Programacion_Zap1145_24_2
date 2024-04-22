@@ -1,0 +1,3 @@
+﻿  001_Hola_Mundo.cpp
+C:\Users\ALUMNO\Desktop\F_Programacion_Zap1145_24_2\001_Hola_Mundo\001_Hola_Mundo.cpp(52,7): error C2040: 'Iniciales: 'char' se diferencia en los niveles de direccionamiento indirecto de 'char [3]'
+C:\Users\ALUMNO\Desktop\F_Programacion_Zap1145_24_2\001_Hola_Mundo\001_Hola_Mundo.cpp(54,26): error C2065: 'Inciales': identificador no declarado
