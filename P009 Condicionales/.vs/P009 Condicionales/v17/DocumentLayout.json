@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\source\\repos\\P009 Condicionales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{464A2941-E487-4372-9FA0-6A12367221A3}|P009 Condicionales\\P009 Condicionales.vcxproj|C:\\Users\\anton\\source\\repos\\P009 Condicionales\\P009 Condicionales\\P009 Condicionales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464A2941-E487-4372-9FA0-6A12367221A3}|P009 Condicionales\\P009 Condicionales.vcxproj|solutionrelative:P009 Condicionales\\P009 Condicionales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P009 Condicionales.cpp",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\P009 Condicionales\\P009 Condicionales\\P009 Condicionales.cpp",
+              "RelativeDocumentMoniker": "P009 Condicionales\\P009 Condicionales.cpp",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\P009 Condicionales\\P009 Condicionales\\P009 Condicionales.cpp",
+              "RelativeToolTip": "P009 Condicionales\\P009 Condicionales.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-18T00:02:33.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
