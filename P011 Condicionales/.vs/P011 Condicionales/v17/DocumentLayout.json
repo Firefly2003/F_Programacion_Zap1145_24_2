@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\P011 Condicionales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6CA754-E5F1-41EC-9134-49C46B2E7BBA}|P011 Condicionales\\P011 Condicionales.vcxproj|C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\P011 Condicionales\\P011 Condicionales\\P011 Condicionales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D6CA754-E5F1-41EC-9134-49C46B2E7BBA}|P011 Condicionales\\P011 Condicionales.vcxproj|solutionrelative:P011 Condicionales\\P011 Condicionales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P011 Condicionales.cpp",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\P011 Condicionales\\P011 Condicionales\\P011 Condicionales.cpp",
+              "RelativeDocumentMoniker": "P011 Condicionales\\P011 Condicionales.cpp",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\P011 Condicionales\\P011 Condicionales\\P011 Condicionales.cpp",
+              "RelativeToolTip": "P011 Condicionales\\P011 Condicionales.cpp",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAQwLcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-20T16:03:11.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
