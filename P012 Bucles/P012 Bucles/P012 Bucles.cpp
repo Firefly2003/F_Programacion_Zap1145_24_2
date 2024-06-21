@@ -1,5 +1,8 @@
 #include <iostream>
-
+#include<ctime>
+void delay(int secs) {
+	for (int i = (time(NULL) + secs); time(NULL) != i; time(NULL));
+}
 int main()
 {
 	int timer = 100;
@@ -11,26 +14,26 @@ int main()
 	{
 		timer = 100;
 		vidas = vidas - 1;
-		std::cout << "
-			Oh no, haz perdido 1 vida, deseas continuar?\nPresiona 1 si quieres continuar.\nPresiona 2 si quieres darte por vencido.\n";
+		std::cout << "Oh no, haz perdido 1 vida!\n";
 		std::cout << "Numero de vidas: " << vidas<<"\n";
 		do {
-			std::cout << "Timer: " << timer << "\n";
+			std::cout << timer << "\n";
+			delay(1);
 			timer = timer - 1;
-			std::cin >> continuar;
-		} while (continuar != 1 && continuar != 2 && timer >>0);
+			if (timer == -1)
+			{
+				std::cout << "Presiona 1 si quieres continuar.\nPresiona 2 si quieres darte por vencido.\n";
+			}
+		} while (timer >= 0);
+		std::cin >> continuar;
 			if (continuar == 1) {
 				std::cout << "haz decidido continuar!\n";
 		}
 
-	} while (timer >> 0 && vidas >> 0 && continuar!=2);
+	} while (vidas >> 0 && continuar!=2);
 
 	if (vidas <= 0) {
 		std::cout << "haz perdido todas tus vidas, GAME OVER";
-	}
-	if (timer <= 0)
-	{
-		std::cout << "El tiempo se acabo, GAME OVER";
 	}
 	if (continuar == 2) {
 		std::cout << "haz decidido dar por terminada tu partida, GAME OVER";

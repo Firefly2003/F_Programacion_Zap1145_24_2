@@ -1,2 +1,3 @@
 ﻿  P012 Bucles.cpp
+C:\Users\anton\Desktop\F_Programacion_Zap1145_24_2\P012 Bucles\P012 Bucles\P012 Bucles.cpp(4,13): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
   P012 Bucles.vcxproj -> C:\Users\anton\Desktop\F_Programacion_Zap1145_24_2\P012 Bucles\x64\Debug\P012 Bucles.exe
