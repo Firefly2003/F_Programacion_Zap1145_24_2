@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\P026 Producto de Dos Numeros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66A3C99B-B740-4B20-A5C7-3F2F38297B38}|P026 Producto de Dos Numeros\\P026 Producto de Dos Numeros.vcxproj|C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\P026 Producto de Dos Numeros\\P026 Producto de Dos Numeros\\P026 Producto de Dos Numeros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66A3C99B-B740-4B20-A5C7-3F2F38297B38}|P026 Producto de Dos Numeros\\P026 Producto de Dos Numeros.vcxproj|solutionrelative:P026 Producto de Dos Numeros\\P026 Producto de Dos Numeros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P026 Producto de Dos Numeros.cpp",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\P026 Producto de Dos Numeros\\P026 Producto de Dos Numeros\\P026 Producto de Dos Numeros.cpp",
+              "RelativeDocumentMoniker": "P026 Producto de Dos Numeros\\P026 Producto de Dos Numeros.cpp",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\P026 Producto de Dos Numeros\\P026 Producto de Dos Numeros\\P026 Producto de Dos Numeros.cpp",
+              "RelativeToolTip": "P026 Producto de Dos Numeros\\P026 Producto de Dos Numeros.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-05T06:08:37.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

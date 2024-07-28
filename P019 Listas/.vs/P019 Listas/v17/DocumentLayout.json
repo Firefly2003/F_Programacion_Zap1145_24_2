@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\P019 Listas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98A1372F-7AB4-493F-B77E-6EF3564333A4}|P019 Listas\\P019 Listas.vcxproj|C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\P019 Listas\\P019 Listas\\P019 Listas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98A1372F-7AB4-493F-B77E-6EF3564333A4}|P019 Listas\\P019 Listas.vcxproj|solutionrelative:P019 Listas\\P019 Listas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P019 Listas.cpp",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\P019 Listas\\P019 Listas\\P019 Listas.cpp",
+              "RelativeDocumentMoniker": "P019 Listas\\P019 Listas.cpp",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\P019 Listas\\P019 Listas\\P019 Listas.cpp",
+              "RelativeToolTip": "P019 Listas\\P019 Listas.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-05T02:13:59.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

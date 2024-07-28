@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\source\\repos\\P023 Maximo Comun Divisor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD9B089-40F7-4AE0-BAEB-E6A88CFDAAE7}|P023 Maximo Comun Divisor\\P023 Maximo Comun Divisor.vcxproj|C:\\Users\\anton\\source\\repos\\P023 Maximo Comun Divisor\\P023 Maximo Comun Divisor\\P023 Maximo Comun Divisor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BD9B089-40F7-4AE0-BAEB-E6A88CFDAAE7}|P023 Maximo Comun Divisor\\P023 Maximo Comun Divisor.vcxproj|solutionrelative:P023 Maximo Comun Divisor\\P023 Maximo Comun Divisor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P023 Maximo Comun Divisor.cpp",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\P023 Maximo Comun Divisor\\P023 Maximo Comun Divisor\\P023 Maximo Comun Divisor.cpp",
+              "RelativeDocumentMoniker": "P023 Maximo Comun Divisor\\P023 Maximo Comun Divisor.cpp",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\P023 Maximo Comun Divisor\\P023 Maximo Comun Divisor\\P023 Maximo Comun Divisor.cpp",
+              "RelativeToolTip": "P023 Maximo Comun Divisor\\P023 Maximo Comun Divisor.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-05T05:36:45.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

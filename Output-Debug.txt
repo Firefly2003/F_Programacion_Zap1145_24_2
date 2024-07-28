@@ -1,0 +1,15 @@
+﻿'Matriz transpuesta.exe' (Win32): Loaded 'C:\Users\anton\Tareas Curso\Matriz transpuesta\x64\Debug\Matriz transpuesta.exe'. Symbols loaded.
+'Matriz transpuesta.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'Matriz transpuesta.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'Matriz transpuesta.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Matriz transpuesta.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'Matriz transpuesta.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'Matriz transpuesta.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'Matriz transpuesta.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 2348 has exited with code 0 (0x0).
+'Matriz transpuesta.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'Matriz transpuesta.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'Matriz transpuesta.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 23280 has exited with code 0 (0x0).
+The thread 22960 has exited with code 0 (0x0).
+The program '[19768] Matriz transpuesta.exe' has exited with code 0 (0x0).

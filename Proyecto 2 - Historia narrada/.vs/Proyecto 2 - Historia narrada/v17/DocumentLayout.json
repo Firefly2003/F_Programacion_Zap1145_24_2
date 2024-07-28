@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\Proyecto 2 - Historia narrada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21AF098B-14DD-4974-930E-BB32C64F13CD}|Proyecto 2 - Historia narrada\\Proyecto 2 - Historia narrada.vcxproj|C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\Proyecto 2 - Historia narrada\\Proyecto 2 - Historia narrada\\Proyecto 2 - Historia narrada.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21AF098B-14DD-4974-930E-BB32C64F13CD}|Proyecto 2 - Historia narrada\\Proyecto 2 - Historia narrada.vcxproj|solutionrelative:Proyecto 2 - Historia narrada\\Proyecto 2 - Historia narrada.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proyecto 2 - Historia narrada.cpp",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\Proyecto 2 - Historia narrada\\Proyecto 2 - Historia narrada\\Proyecto 2 - Historia narrada.cpp",
+              "RelativeDocumentMoniker": "Proyecto 2 - Historia narrada\\Proyecto 2 - Historia narrada.cpp",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\F_Programacion_Zap1145_24_2\\Proyecto 2 - Historia narrada\\Proyecto 2 - Historia narrada\\Proyecto 2 - Historia narrada.cpp",
+              "RelativeToolTip": "Proyecto 2 - Historia narrada\\Proyecto 2 - Historia narrada.cpp",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAADoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-05T17:16:36.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
